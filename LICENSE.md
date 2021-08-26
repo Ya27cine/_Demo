@@ -3,9 +3,6 @@ Officia velit ut reprehenderit ullamco nisi magna.  Laborum laborum anim nostrud
 
 
 
-<<<<<<< HEAD
 some line update this file after updating very bad
 
-=======
-some line for very bad branch
->>>>>>> very-bad
+dere
